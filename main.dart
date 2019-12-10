@@ -1,6 +1,13 @@
 //audioplayers: ^0.13.5
 //video_player: ^0.10.4+1
 
+// pubspec.yaml
+// flutter:
+//  assets:
+//   - assets/
+
+// [AppName]/assets/ncs.mp3
+
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:audioplayers/audio_cache.dart';
